@@ -1,0 +1,13 @@
+C:\Users\Rose\Desktop\codes\practice\OS_Project\bin\Debug\OS_Project.exe.config
+C:\Users\Rose\Desktop\codes\practice\OS_Project\bin\Debug\OS_Project.exe
+C:\Users\Rose\Desktop\codes\practice\OS_Project\bin\Debug\OS_Project.pdb
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.csproj.AssemblyReference.cache
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.Properties.Resources.resources
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.csproj.GenerateResource.cache
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.exe
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.pdb
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.LengthConverterForm.resources
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.OS.resources
+C:\Users\Rose\Desktop\codes\practice\OS_Project\obj\Debug\OS_Project.MassConverterForm.resources
